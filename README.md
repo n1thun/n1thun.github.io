@@ -1,2 +1,1 @@
-# nithunx.github.io
-Personal home page
+# [nithun.com](http://www.nithun.com)
