@@ -28,16 +28,16 @@ I don't think there is one perfect way to go about leaning to code but, I feel t
 * SSH
 * Deployment basics
 * Bootstrap
-* LESS/sass
+* LESS/SASS
 
 ### Level 2
-* Programming language (Ruby/Python/JavaScript)[Pick a language, do your research on this]
+* Programming language (Ruby/Python/JavaScript - Pick one)
 * Data Structures
 * Algorithms
 * Design Patterns
 * Servers (Nginx/Apache)
 * Databases (MySQL)
-* Deployment
+* Deployment techniques (AWS/Heroku/etc)
 
 ### Level 3
 * Advanced front-end frameworks
@@ -46,4 +46,17 @@ I don't think there is one perfect way to go about leaning to code but, I feel t
 * RESTful APIs
 
 ## Resources:
-There are tons of tutorials available online and it never been easier to learn to code. You can see a list of my most favorite ones below, I do feel that some of the  paid services are much better than the free ones because they keep the resources updated.
+There are tons of tutorials available online and it never been easier to learn to code. You can see a list of my most favorite ones below, I do feel that some of the  paid services are much better than the free ones because they keep the resources updated and help is always at hand.
+
+#### Learn to code
+* ![Codeacademy.com](www.codeacademy.com)
+* ![Coursera](www.coursera.com)
+* ![Treehouse](www.Treehouse.com)
+* ![Codeschool](www.Codeschool.com)
+* ![Freecodecamp](www.Freecodecamp.com)
+* ![Code4startups](www.Code4startups.com)
+* ![Udacity](www.Udacity.com)
+
+#### Test you skills
+* ![Hackerrank.com](www.hackerrank.com)
+* ![Projecteuler.com](http://projecteuler.net/problems)
