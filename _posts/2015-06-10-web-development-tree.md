@@ -50,14 +50,14 @@ There are tons of tutorials available online and it never been easier to learn t
 
 #### Learn to code
 * [Google Studednt resources](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-* [Codeacademy.com](www.codeacademy.com)
-* [Coursera](www.coursera.com)
-* [Treehouse](www.Treehouse.com)
-* [Codeschool](www.Codeschool.com)
-* [Freecodecamp](www.Freecodecamp.com)
-* [Code4startups](www.Code4startups.com)
-* [Udacity](www.Udacity.com)
+* [Codeacademy.com](https://www.codeacademy.com)
+* [Coursera](https://www.coursera.com)
+* [Treehouse](https://www.Treehouse.com)
+* [Codeschool](https://www.Codeschool.com)
+* [Freecodecamp](https://www.Freecodecamp.com)
+* [Code4startups](https://www.Code4startups.com)
+* [Udacity](https://www.Udacity.com)
 
 #### Test you skills
-* [Hackerrank.com](www.hackerrank.com)
+* [Hackerrank.com](https://www.hackerrank.com)
 * [Projecteuler.com](http://projecteuler.net/problems)
