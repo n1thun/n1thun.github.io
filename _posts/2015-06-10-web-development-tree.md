@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Welcome to the web development Jungle
+title:      Welcome to the Jungle
 date:       2016-01-12 12:31:19
-summary:    Navigating the web dev Jungle for beginners
+summary:    Navigating the web development Jungle for beginners
 categories: webdev
 ---
 
@@ -49,13 +49,13 @@ There are tons of tutorials available online and it never been easier to learn t
 
 #### Learn to code
 * [Google Studednt resources](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-* [Codeacademy.com](https://www.codeacademy.com)
-* [Coursera](https://www.coursera.com)
-* [Treehouse](https://www.Treehouse.com)
-* [Codeschool](https://www.Codeschool.com)
-* [Freecodecamp](https://www.Freecodecamp.com)
-* [Code4startups](https://www.Code4startups.com)
-* [Udacity](https://www.Udacity.com)
+* [Codeacademy.com](http://www.codeacademy.com)
+* [Coursera](http://www.coursera.com)
+* [Treehouse](http://www.Treehouse.com)
+* [Codeschool](http://www.Codeschool.com)
+* [Freecodecamp](http://www.Freecodecamp.com)
+* [Code4startups](http://www.Code4startup.com)
+* [Udacity](http://www.Udacity.com)
 
 #### Test you skills
 * [Hackerrank.com](https://www.hackerrank.com)
