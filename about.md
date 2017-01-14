@@ -18,7 +18,6 @@ You can get in touch by emailing me at nithun(at)gmail.com
 * Linkedin.com/[nithun](http://linkedin.com/in/nithun)
 * Facebook.com/[nithun](http://facebook.com/nithun)
 
-<!-- INSTANSIVE WIDGET --><script src="//instansive.com/widget/js/instansive.js"></script><iframe src="//instansive.com/widgets/b1683844c59c52e587c6dbb22166b4be.html" id="instansive_b1683844c5" name="instansive_b1683844c5"  scrolling="no" allowtransparency="true" class="instansive-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
 
 ## About this site
 This website is hosted on Github.com and uses the awesome Jekyll framework to do all the heavy lifting. Theme by [John Otander](http://johnotander.com)
