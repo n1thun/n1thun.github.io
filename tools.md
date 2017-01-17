@@ -16,11 +16,9 @@ A list of my favorite tools and applications:
 * [Slice](https://www.slice.com/) - Automated package tracker.
 
 ### Development tools
-* [Atom]()
-* [Dash]()
-* [Oh-My-Zsh]()
-* [Sketch]()
-* [Emacs]()
+* [Atom](https://atom.io/) - Clean and extensible Text editor built by the folks at Github.
+* [Oh-My-Zsh](http://ohmyz.sh/) - Your terminal will never be the same again.
+* [Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more.
 
 ### Mac Utilities:
 * [Alfred](https://www.alfredapp.com/) - Most critical app on the computer, like spotlight on steroids.

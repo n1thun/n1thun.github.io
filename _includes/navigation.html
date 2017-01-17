@@ -5,15 +5,23 @@
 {% endfor %}
 
 {% for page in site.pages %}
+    {% if page.tags contains "work" %}
+        <a href="{{ site.url }}">{{ page.title }}</a>
+    {% endif %}
+{% endfor %}
+
+{% for page in site.pages %}
     {% if page.tags contains "resume" %}
         <a href="{{ page.url }}">{{ page.title }}</a>
     {% endif %}
 {% endfor %}
+
 {% for page in site.pages %}
     {% if page.tags contains "tools" %}
         <a href="{{ page.url }}">{{ page.title }}</a>
     {% endif %}
 {% endfor %}
+
 {% for page in site.pages %}
     {% if page.tags contains "contact" %}
         <a href="{{ page.url }}">Contact</a>

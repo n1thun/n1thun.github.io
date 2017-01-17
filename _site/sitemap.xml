@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://www.nithun.com/project/2017/05/12/Web-test-3/</loc>
+    <lastmod>2017-05-12T12:31:19+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.nithun.com/project/2017/05/12/React-Flask-Boilerplate-App/</loc>
+    <lastmod>2017-05-12T12:31:19+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.nithun.com/webdev/2016/01/12/web-development-tree/</loc>
+    <lastmod>2016-01-12T12:31:19+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://www.nithun.com/404.html</loc>
+  </url>
+  <url>
+    <loc>http://www.nithun.com/about/</loc>
+  </url>
+  <url>
+    <loc>http://www.nithun.com/contact/</loc>
+  </url>
+  <url>
+    <loc>http://www.nithun.com/</loc>
+  </url>
+  <url>
+    <loc>http://www.nithun.com/resume/</loc>
+  </url>
+  <url>
+    <loc>http://www.nithun.com/thanks/</loc>
+  </url>
+  <url>
+    <loc>http://www.nithun.com/tools/</loc>
+  </url>
+  <url>
+    <loc>http://www.nithun.com/work/</loc>
+  </url>
+</urlset>
