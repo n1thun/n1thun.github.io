@@ -1,18 +1,29 @@
 ---
 layout: page
-title: About me
+title: About me in 4 lines or less
 permalink: /about/
 tags: about
 ---
-Hi, my name is  Nithun Harikrishnan I am a full-stack developer. I'm a currently doing my Masters in Computer Science from DePaul University, Chicago. Previously I worked as safety database associate and then moved on to Co-found [Unmonkey.com](http://unmonkey.com), an on online fashion boutique.
 
-I love building and tinkering with software, skilled at using Python, Django, AWS, Bootstrap etc.
+Hey there.
+I'm Nithun Harikrishnan, a developer currently living in Chicago. I have a bachelors degree in Biotechnology and I am currently pursuing my Masters in Computer Science from DePaul University, Chicago.
 
-Checkout my [Github repository](https://github.com/nithunx) to see what i am working on currently.
+Previously I worked at a Fortune 50 Pharma Company, then moved on to startup Unmonkey.com, an E-commerce firm and recently worked at Machine learning based healthcare startup.
+
+I love to build software that makes a difference. I have an instinct for good design and constant desire to be better.
+
+Checkout my work at [github](https://github.com/nithunx)
 
 You can get in touch by emailing me at nithun(at)gmail.com
 
-### Get social:
+### Things I am passionate about:
+
+* Opensource and Maker Movement
+* Health Tech
+* Education Tech
+* Generative art
+
+### Social Media Links:
 
 * Twitter.com/[nithun](http://twitter.com/nithun)
 * Linkedin.com/[nithun](http://linkedin.com/in/nithun)

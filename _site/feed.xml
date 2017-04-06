@@ -14,7 +14,7 @@
 &lt;ul&gt;
   &lt;li&gt;User creation and authentication.&lt;/li&gt;
   &lt;li&gt;Create and save entries to the cloud.&lt;/li&gt;
-  &lt;li&gt;Image cropping and storage to the cloud.&lt;/li&gt;
+  &lt;li&gt;Add, crop and store images to the cloud.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;login-screen&quot;&gt;Login screen&lt;/h3&gt;
