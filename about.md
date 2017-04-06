@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me in 4 lines or less
+title: About me
 permalink: /about/
 tags: about
 ---
