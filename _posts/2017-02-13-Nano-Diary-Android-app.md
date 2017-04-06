@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Nano Diary - Android app
+title:      Nano Diary, a personal diary application
 date:       2017-02-13 18:7:30
 summary:    Firebase powered Android application with online sync capabilities.
 categories: android

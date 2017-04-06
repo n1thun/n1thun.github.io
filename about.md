@@ -1,14 +1,16 @@
 ---
 layout: page
-title: About me
+title:
 permalink: /about/
 tags: about
 ---
+<img src="{{ site.baseurl }}/images/square.jpg" style="display: block; margin: auto; width: 30%; border-radius: 50%;">
 
 Hey there.
+
 I'm Nithun Harikrishnan, a developer currently living in Chicago. I have a bachelors degree in Biotechnology and I am currently pursuing my Masters in Computer Science from DePaul University, Chicago.
 
-Previously I worked at a Fortune 50 Pharma Company, then moved on to startup Unmonkey.com, an E-commerce firm and recently worked at Machine learning based healthcare startup.
+Previously I worked at a Fortune 50 Pharma Company, then moved on to startup Unmonkey.com, an E-commerce firm. I recently worked at Machine learning based healthcare startup.
 
 I love to build software that makes a difference. I have an instinct for good design and constant desire to be better.
 
