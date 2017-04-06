@@ -3,77 +3,32 @@
   <channel>
     <title>Nithun</title>
     <description>Hey this is Nithun, welcome to my personal page</description>
-    <link>http://www.nithun.com/</link>
-    <atom:link href="http://www.nithun.com/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.nithun.com/nithunx.github.io/</link>
+    <atom:link href="http://www.nithun.com/nithunx.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Hope - Hackathon project</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/webmap.png&quot; alt=&quot;Hope - Hackathon project&quot; /&gt;
-When I started to teach myself web development there was this maze of tech jargon I had to navigate and make sense of before I could get any actual work done. Its true that its a jungle out there but the entire process can be greatly simplified if you follow a proper of roadmap of what to learn and when. This blog post aims to help others who are headed down the same road navigate more easily.&lt;/p&gt;
+        <title>Nano Diary - Android app</title>
+        <description>&lt;p&gt;Nanodiary is a minimal personal diary application for android. This application was built by me for the Android development course at DePaul University. You can find the source code at &lt;a href=&quot;https://github.com/nithunx/Nanodiary&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2 id=&quot;the-process&quot;&gt;The Process:&lt;/h2&gt;
-&lt;p&gt;Start simple, just focus on learning the core concepts and how to utilize them, build small projects which incorporate these concepts. Don’t even try to learn everything about each topic at this point, it is futile. The only way you can become a good developer is by practice, set aside at least an hour a day to code and do it religiously. Your aim should be to get ur self up and running but also have a firm grasp on core concepts. You will get stuck at some point, Google is your best friend here, even seasoned developer will get stuck at certain junctures. It is part of the process, do not get disheartened. Take a break and get back to it. Everything is hard before its easy.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-roadmap&quot;&gt;The Roadmap:&lt;/h2&gt;
-&lt;p&gt;There is no one perfect way to go about leaning to code but, I feel the following roadmap should get you started on the right path. Obviously this is not an exhaustive list, these concepts should give you a solid base from where to develop your skills.&lt;/p&gt;
-
-&lt;h3 id=&quot;level-1&quot;&gt;Level 1&lt;/h3&gt;
+&lt;h3 id=&quot;features-include&quot;&gt;Features include:&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;Linux/Mac Terminal basics&lt;/li&gt;
-  &lt;li&gt;HTML&lt;/li&gt;
-  &lt;li&gt;CSS (Cascading style sheets)&lt;/li&gt;
-  &lt;li&gt;JavaScript&lt;/li&gt;
-  &lt;li&gt;Git basics&lt;/li&gt;
-  &lt;li&gt;FTP&lt;/li&gt;
-  &lt;li&gt;SSH&lt;/li&gt;
-  &lt;li&gt;Deployment basics&lt;/li&gt;
-  &lt;li&gt;Bootstrap&lt;/li&gt;
-  &lt;li&gt;LESS/SASS&lt;/li&gt;
+  &lt;li&gt;User creation and authentication.&lt;/li&gt;
+  &lt;li&gt;Create and save entries to the cloud.&lt;/li&gt;
+  &lt;li&gt;Image cropping and storage to the cloud.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;level-2&quot;&gt;Level 2&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Programming language (Ruby/Python/JavaScript - Pick one)&lt;/li&gt;
-  &lt;li&gt;Data Structures&lt;/li&gt;
-  &lt;li&gt;Algorithms&lt;/li&gt;
-  &lt;li&gt;Design Patterns&lt;/li&gt;
-  &lt;li&gt;Servers (Nginx/Apache)&lt;/li&gt;
-  &lt;li&gt;Databases (MySQL)&lt;/li&gt;
-  &lt;li&gt;Deployment techniques (AWS/Heroku/etc)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h3 id=&quot;login-screen&quot;&gt;Login screen&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/nithunx.github.io/images/nano-diary-1.png&quot; width=&quot;350&quot; border=&quot;2&quot; style=&quot;border-radius: 15px;&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;level-3&quot;&gt;Level 3&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Advanced front-end frameworks&lt;/li&gt;
-  &lt;li&gt;Test driven development techniques&lt;/li&gt;
-  &lt;li&gt;Security services&lt;/li&gt;
-  &lt;li&gt;RESTful APIs&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h3 id=&quot;diary-entries-screen&quot;&gt;Diary entries screen&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/nithunx.github.io/images/nano-diary-2.png&quot; width=&quot;350&quot; border=&quot;2&quot; style=&quot;border-radius: 15px;&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;resources&quot;&gt;Resources:&lt;/h2&gt;
-&lt;p&gt;There are tons of tutorials available online and it never been easier to learn to code. You can see a list of my most favorite ones below, I do feel that some of the  paid services are better than the free ones because they keep the resources updated and help is always at hand.&lt;/p&gt;
-
-&lt;h4 id=&quot;learn-to-code&quot;&gt;Learn to code&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.google.com/about/careers/students/guide-to-technical-development.html&quot;&gt;Google Studednt resources&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.codeacademy.com&quot;&gt;Codeacademy.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.coursera.com&quot;&gt;Coursera&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.Treehouse.com&quot;&gt;Treehouse&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.Codeschool.com&quot;&gt;Codeschool&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.Freecodecamp.com&quot;&gt;Freecodecamp&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.Code4startup.com&quot;&gt;Code4startups&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.Udacity.com&quot;&gt;Udacity&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;test-you-skills&quot;&gt;Test you skills&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.hackerrank.com&quot;&gt;Hackerrank.com&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://projecteuler.net/problems&quot;&gt;Projecteuler.com&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h3 id=&quot;new-entry-screen&quot;&gt;New entry screen&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/nithunx.github.io/images/nano-diary-3.png&quot; width=&quot;350&quot; border=&quot;2&quot; style=&quot;border-radius: 15px;&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 12 May 2017 12:31:19 +0000</pubDate>
-        <link>http://www.nithun.com/project/2017/05/12/Web-test-3/</link>
-        <guid isPermaLink="true">http://www.nithun.com/project/2017/05/12/Web-test-3/</guid>
+        <pubDate>Mon, 13 Feb 2017 18:07:30 +0000</pubDate>
+        <link>http://www.nithun.com/nithunx.github.io/android/2017/02/13/Nano-Diary-Android-app/</link>
+        <guid isPermaLink="true">http://www.nithun.com/nithunx.github.io/android/2017/02/13/Nano-Diary-Android-app/</guid>
       </item>
     
       <item>
@@ -82,16 +37,16 @@ When I started to teach myself web development there was this maze of tech jargo
 
 &lt;p&gt;&lt;a href=&quot;https://peaceful-headland-15265.herokuapp.com/&quot;&gt;See Live app here&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/react-search-app.png&quot; alt=&quot;Flask + React Boilerplate app&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/nithunx.github.io/images/react-search-app.png&quot; alt=&quot;Flask + React Boilerplate app&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 12 May 2017 12:31:19 +0000</pubDate>
-        <link>http://www.nithun.com/project/2017/05/12/React-Flask-Boilerplate-App/</link>
-        <guid isPermaLink="true">http://www.nithun.com/project/2017/05/12/React-Flask-Boilerplate-App/</guid>
+        <pubDate>Fri, 11 Nov 2016 10:10:19 +0000</pubDate>
+        <link>http://www.nithun.com/nithunx.github.io/project/2016/11/11/React-Flask-Boilerplate-App/</link>
+        <guid isPermaLink="true">http://www.nithun.com/nithunx.github.io/project/2016/11/11/React-Flask-Boilerplate-App/</guid>
       </item>
     
       <item>
         <title>Welcome to the Jungle</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/webmap.png&quot; alt=&quot;Welcome to the Jungle&quot; /&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/nithunx.github.io/images/webmap.png&quot; alt=&quot;Welcome to the Jungle&quot; /&gt;
 When I started to teach myself web development there was this maze of tech jargon I had to navigate and make sense of before I could get any actual work done. Its true that its a jungle out there but the entire process can be greatly simplified if you follow a proper of roadmap of what to learn and when. This blog post aims to help others who are headed down the same road navigate more easily.&lt;/p&gt;
 
 &lt;h2 id=&quot;the-process&quot;&gt;The Process:&lt;/h2&gt;
@@ -155,8 +110,8 @@ When I started to teach myself web development there was this maze of tech jargo
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 12 Jan 2016 12:31:19 +0000</pubDate>
-        <link>http://www.nithun.com/webdev/2016/01/12/web-development-tree/</link>
-        <guid isPermaLink="true">http://www.nithun.com/webdev/2016/01/12/web-development-tree/</guid>
+        <link>http://www.nithun.com/nithunx.github.io/webdev/2016/01/12/web-development-tree/</link>
+        <guid isPermaLink="true">http://www.nithun.com/nithunx.github.io/webdev/2016/01/12/web-development-tree/</guid>
       </item>
     
   </channel>
