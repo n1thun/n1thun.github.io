@@ -7,7 +7,34 @@
     <atom:link href="http://www.nithun.com/nithunx.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Nano Diary - Android app</title>
+        <title>Docstop clinic management system</title>
+        <description>&lt;p&gt;Docstop is a clinic management system built to help Doctors and their patients. The Doctors can see a list of their patients and the relevant information for each patient. The application also enables them to crate appointments, manage medical records and respond to patient queries. The Patients on the other hand can see their personal records, update it and ask questions to their doctors. The frontend is built using react.js, &lt;a href=&quot;https://semantic-ui.com/&quot;&gt;semantic UI&lt;/a&gt; and is fully responsive. The backend is built on node.js, mongodb and exposes a JSON APIs which provides the login and data endpoints.&lt;/p&gt;
+
+&lt;h3 id=&quot;features-include&quot;&gt;Features include:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Separate dashboard for Doctor and Patient&lt;/li&gt;
+  &lt;li&gt;User search&lt;/li&gt;
+  &lt;li&gt;Appointment scheduling&lt;/li&gt;
+  &lt;li&gt;File upload&lt;/li&gt;
+  &lt;li&gt;Doctor and patient messaging&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;docstop-application&quot;&gt;Docstop Application&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/nithunx.github.io/images/docstop-1.gif&quot; width=&quot;850&quot; align=&quot;middle&quot; style=&quot;border-radius: 10px;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;login-screens&quot;&gt;Login Screens&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/nithunx.github.io/images/docstop-3.png&quot; width=&quot;850&quot; align=&quot;middle&quot; style=&quot;border-radius: 10px;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;more-screens&quot;&gt;More Screens&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/nithunx.github.io/images/docstop-2.png&quot; width=&quot;850&quot; align=&quot;middle&quot; style=&quot;border-radius: 10px;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 13 Apr 2017 14:12:30 +0000</pubDate>
+        <link>http://www.nithun.com/nithunx.github.io/webdev/2017/04/13/Docstop-clinic-managenmnt-react-app/</link>
+        <guid isPermaLink="true">http://www.nithun.com/nithunx.github.io/webdev/2017/04/13/Docstop-clinic-managenmnt-react-app/</guid>
+      </item>
+    
+      <item>
+        <title>Nano Diary, a personal diary application</title>
         <description>&lt;p&gt;Nanodiary is a minimal personal diary application for android. This application was built by me for the Android development course at DePaul University. You can find the source code at &lt;a href=&quot;https://github.com/nithunx/Nanodiary&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;features-include&quot;&gt;Features include:&lt;/h3&gt;

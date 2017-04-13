@@ -14,7 +14,7 @@ Previously I worked at a Fortune 50 Pharma Company, then moved on to startup Unm
 
 I love to build software that makes a difference. I have an instinct for good design and constant desire to be better.
 
-Checkout my work at [github](https://github.com/nithunx)
+Checkout some of my work at [github](https://github.com/nithunx)
 
 You can get in touch by emailing me at nithun(at)gmail.com
 
