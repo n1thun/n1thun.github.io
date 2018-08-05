@@ -3,8 +3,8 @@
   <channel>
     <title>Nithun</title>
     <description>Hey this is Nithun, welcome to my personal page</description>
-    <link>http://www.nithun.com/nithunx.github.io/</link>
-    <atom:link href="http://www.nithun.com/nithunx.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000/nithunx.github.io/</link>
+    <atom:link href="http://localhost:4000/nithunx.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Docstop clinic management system</title>
@@ -28,9 +28,9 @@
 &lt;h3 id=&quot;more-screens&quot;&gt;More Screens&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;/nithunx.github.io/images/docstop-2.png&quot; width=&quot;850&quot; align=&quot;middle&quot; style=&quot;border-radius: 10px;&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 13 Apr 2017 14:12:30 +0000</pubDate>
-        <link>http://www.nithun.com/nithunx.github.io/webdev/2017/04/13/Docstop-clinic-managenmnt-react-app/</link>
-        <guid isPermaLink="true">http://www.nithun.com/nithunx.github.io/webdev/2017/04/13/Docstop-clinic-managenmnt-react-app/</guid>
+        <pubDate>Thu, 13 Apr 2017 09:12:30 -0500</pubDate>
+        <link>http://localhost:4000/nithunx.github.io/webdev/2017/04/13/Docstop-clinic-managenmnt-react-app/</link>
+        <guid isPermaLink="true">http://localhost:4000/nithunx.github.io/webdev/2017/04/13/Docstop-clinic-managenmnt-react-app/</guid>
       </item>
     
       <item>
@@ -53,9 +53,9 @@
 &lt;h3 id=&quot;new-entry-screen&quot;&gt;New entry screen&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;/nithunx.github.io/images/nano-diary-3.png&quot; width=&quot;350&quot; border=&quot;2&quot; style=&quot;border-radius: 15px;&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 13 Feb 2017 18:07:30 +0000</pubDate>
-        <link>http://www.nithun.com/nithunx.github.io/android/2017/02/13/Nano-Diary-Android-app/</link>
-        <guid isPermaLink="true">http://www.nithun.com/nithunx.github.io/android/2017/02/13/Nano-Diary-Android-app/</guid>
+        <pubDate>Mon, 13 Feb 2017 18:07:30 -0600</pubDate>
+        <link>http://localhost:4000/nithunx.github.io/android/2017/02/13/Nano-Diary-Android-app/</link>
+        <guid isPermaLink="true">http://localhost:4000/nithunx.github.io/android/2017/02/13/Nano-Diary-Android-app/</guid>
       </item>
     
       <item>
@@ -66,9 +66,9 @@
 
 &lt;p&gt;&lt;img src=&quot;/nithunx.github.io/images/react-search-app.png&quot; alt=&quot;Flask + React Boilerplate app&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 11 Nov 2016 10:10:19 +0000</pubDate>
-        <link>http://www.nithun.com/nithunx.github.io/project/2016/11/11/React-Flask-Boilerplate-App/</link>
-        <guid isPermaLink="true">http://www.nithun.com/nithunx.github.io/project/2016/11/11/React-Flask-Boilerplate-App/</guid>
+        <pubDate>Fri, 11 Nov 2016 04:10:19 -0600</pubDate>
+        <link>http://localhost:4000/nithunx.github.io/project/2016/11/11/React-Flask-Boilerplate-App/</link>
+        <guid isPermaLink="true">http://localhost:4000/nithunx.github.io/project/2016/11/11/React-Flask-Boilerplate-App/</guid>
       </item>
     
       <item>
@@ -136,9 +136,9 @@ When I started to teach myself web development there was this maze of tech jargo
   &lt;li&gt;&lt;a href=&quot;http://projecteuler.net/problems&quot;&gt;Projecteuler.com&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Tue, 12 Jan 2016 12:31:19 +0000</pubDate>
-        <link>http://www.nithun.com/nithunx.github.io/webdev/2016/01/12/web-development-tree/</link>
-        <guid isPermaLink="true">http://www.nithun.com/nithunx.github.io/webdev/2016/01/12/web-development-tree/</guid>
+        <pubDate>Tue, 12 Jan 2016 06:31:19 -0600</pubDate>
+        <link>http://localhost:4000/nithunx.github.io/webdev/2016/01/12/web-development-tree/</link>
+        <guid isPermaLink="true">http://localhost:4000/nithunx.github.io/webdev/2016/01/12/web-development-tree/</guid>
       </item>
     
   </channel>
